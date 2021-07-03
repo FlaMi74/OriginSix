@@ -1,0 +1,17 @@
+
+front-end - cliente que faz o pedido
+
+back-end - é a cozinha que faz o pedido
+
+http - hypertext transfer protocol - regras de transferencia de paginas
+
+url - universal resource location - recurso localização universal
+
+tecnologias do front - html  css  javascript
+
+
+
+50171429753
+237
+0393
+3016498
